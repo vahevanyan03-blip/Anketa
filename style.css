@@ -1,1 +1,45 @@
+body{
+    background-color: #d2cca6;
+}
+.container{
+    justify-content: center; 
+    align-items: center;
+}
+#Photo {
+    width: 200px; 
+    margin-right: 15px;
+}
+.zero {
+    list-style: none;
+}
+.cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Text{
+    text-align: justify;
+    margin-left: 30%;
+}
+ul{
+    padding: 0;
+}
+.bh{
+    margin-bottom: 40px;
+}
+strong{
+    color: #5bb55bdb;
+}
+h1{
+    color: #4f0812;
+}
+h2{
+    color: #1c4949;
+}
+a{
+    color: #0345ffe6;
+}
+
+
+
 
